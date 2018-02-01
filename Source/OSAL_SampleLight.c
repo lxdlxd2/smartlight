@@ -78,6 +78,8 @@
 #endif // BDB_TL_TARGET
 #endif // INTER_PAN
 
+
+//lxd
 #include "zcl_samplelight.h"
 
 /*********************************************************************
